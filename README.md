@@ -1,4 +1,4 @@
-# ThreeJS Journey
+# ThreeJS Journey 🤩
 
 This repo records my journey of diving deeper into Three.js.
 
