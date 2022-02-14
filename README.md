@@ -7,6 +7,7 @@ This repo records my journey of diving deeper into Three.js.
 **Instructor** : [Bruno Simon](https://bruno-simon.com/)
 
 Date Started: Feb 13, 2022
+
 Date Ended: TBD
 
 ## Progress
