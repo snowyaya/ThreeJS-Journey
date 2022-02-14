@@ -11,5 +11,6 @@ Date Ended: TBD
 
 ## Progress
 
-[-] Lesson 1: Introduction
-[x] Lesson 2: What is WebGL and Why use Three.js?
+[-]Lesson 1: Introduction
+
+[x]Lesson 2: What is WebGL and Why use Three.js?
