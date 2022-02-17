@@ -22,7 +22,7 @@ Date Ended: TBD
 
 ![image](https://user-images.githubusercontent.com/75382121/154153600-87f5481f-78e5-4697-aace-166cead1d143.png)
 
-- [ ] Lesson 4: Webpack
+- [x] Lesson 4: Webpack
 - [ ] Lesson 5: Transform Objects
 - [ ] Lesson 6: Animation
 - [ ] Lesson 7: Cameras
