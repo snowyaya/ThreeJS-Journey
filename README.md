@@ -49,7 +49,11 @@ Date Ended: TBD
 
 ![09-geometries](https://user-images.githubusercontent.com/75382121/157090052-13e4a53c-fd75-4803-9cd5-8e41acc5bdea.gif)
 
-- [ ] Lesson 10: Debug UI
+- [x] Lesson 10: Debug UI
+- use `lil-gui` to debug UI
+
+![10-debug-ui](https://user-images.githubusercontent.com/75382121/157096697-dadaf547-eb13-49d0-936e-8adf0d7f16b4.gif)
+
 - [ ] Lesson 11: Textures
 - [ ] Lesson 12: Materals
 - [ ] Lesson 13: 3D Text
