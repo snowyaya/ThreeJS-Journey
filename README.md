@@ -32,7 +32,10 @@ Date Ended: TBD
 
 ![06-animation](https://user-images.githubusercontent.com/75382121/156968617-d041f2ea-a5dd-47c4-b420-954db018888b.gif)
 
-- [ ] Lesson 7: Cameras
+- [x] Lesson 7: Cameras
+
+![07-camera](https://user-images.githubusercontent.com/75382121/157063530-fe7941f0-5f7b-49c9-961b-4c98d687966f.gif)
+
 - [ ] Lesson 8: Fullscreen and resizing
 - [ ] Lesson 9: Geometrie
 - [ ] Lesson 10: Debug UI
