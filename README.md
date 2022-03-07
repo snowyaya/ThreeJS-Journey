@@ -40,7 +40,11 @@ Date Ended: TBD
 
 ![07-camera](https://user-images.githubusercontent.com/75382121/157063530-fe7941f0-5f7b-49c9-961b-4c98d687966f.gif)
 
-- [ ] Lesson 8: Fullscreen and resizing
+- [x] Lesson 8: Fullscreen and resizing
+- The cube can be displayed in resized window and in fullscreen mode (works for both chrome and safari!) 🎉
+
+![08-resize-and-fullscreen](https://user-images.githubusercontent.com/75382121/157076539-d8408bd0-7540-4591-b7ea-aefa136b8eae.gif)
+
 - [ ] Lesson 9: Geometrie
 - [ ] Lesson 10: Debug UI
 - [ ] Lesson 11: Textures
