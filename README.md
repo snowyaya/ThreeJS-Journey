@@ -31,15 +31,13 @@ Date Ended: TBD
 - [x] Lesson 6: Animation
 
 ![06-animation](https://user-images.githubusercontent.com/75382121/156968617-d041f2ea-a5dd-47c4-b420-954db018888b.gif)
-```
-The screen you are looking at runs at a specific frequency. We call that a frame rate. The frame rate mostly depends on the screen, but the computer itself has limitations. Most screens run at 60 frames per second. If you do the maths, that means about a frame every 16ms. But some screens can run much faster, and when the computer has difficulties processing things, it'll run more slowly.
 
-This screen executes a function that moves objects and does the render on each frame regardless of the frame rate.
-```
+- The screen you are looking at runs at a specific frequency. We call that a frame rate. The frame rate mostly depends on the screen, but the computer itself has limitations. Most screens run at 60 frames per second. If you do the maths, that means about a frame every 16ms. But some screens can run much faster, and when the computer has difficulties processing things, it'll run more slowly.
+
+- This screen executes a function that moves objects and does the render on each frame regardless of the frame rate.
+
 - [x] Lesson 7: Cameras
-```
-Let the object move along with your cursor.
-```
+- Let the object move along with your cursor.
 
 ![07-camera](https://user-images.githubusercontent.com/75382121/157063530-fe7941f0-5f7b-49c9-961b-4c98d687966f.gif)
 
