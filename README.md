@@ -23,7 +23,7 @@ Date Ended: TBD
 
 - [x] Lesson 4: Webpack
 - [x] Lesson 5: Transform Objects
-- Today I learned how to rotae a group.
+- Today I learned how to rotae a group. 🎉
 - A mesh/group has `rotation`, `scale`, `position`, and etc.
 <img width="804" alt="image" src="https://user-images.githubusercontent.com/75382121/156961436-7f5cc79a-6d4f-4823-8577-8206f0d3c2cd.png">
 
@@ -33,10 +33,10 @@ Date Ended: TBD
 
 - The screen you are looking at runs at a specific frequency. We call that a frame rate. The frame rate mostly depends on the screen, but the computer itself has limitations. Most screens run at 60 frames per second. If you do the maths, that means about a frame every 16ms. But some screens can run much faster, and when the computer has difficulties processing things, it'll run more slowly.
 
-- This screen executes a function that moves objects and does the render on each frame regardless of the frame rate.
+- This screen executes a function that moves objects and does the render on each frame regardless of the frame rate. 🎉
 
 - [x] Lesson 7: Cameras
-- Let the object move along with your cursor.
+- Let the object move along with your cursor. 🎉
 
 ![07-camera](https://user-images.githubusercontent.com/75382121/157063530-fe7941f0-5f7b-49c9-961b-4c98d687966f.gif)
 
