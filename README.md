@@ -45,7 +45,10 @@ Date Ended: TBD
 
 ![08-resize-and-fullscreen](https://user-images.githubusercontent.com/75382121/157076539-d8408bd0-7540-4591-b7ea-aefa136b8eae.gif)
 
-- [ ] Lesson 9: Geometrie
+- [x] Lesson 9: Geometries
+
+![09-geometries](https://user-images.githubusercontent.com/75382121/157090052-13e4a53c-fd75-4803-9cd5-8e41acc5bdea.gif)
+
 - [ ] Lesson 10: Debug UI
 - [ ] Lesson 11: Textures
 - [ ] Lesson 12: Materals
