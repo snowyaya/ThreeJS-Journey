@@ -16,7 +16,6 @@ Date Ended: TBD
 - [x] Lesson 1: Introduction
 - [x] Lesson 2: What is WebGL and Why use Three.js?
 - [x] Lesson 3: Basics Scene
-- Code
 
 - Today I drew a cube on a canvas. 🎉
 
