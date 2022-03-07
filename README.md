@@ -23,7 +23,11 @@ Date Ended: TBD
 ![image](https://user-images.githubusercontent.com/75382121/154153600-87f5481f-78e5-4697-aace-166cead1d143.png)
 
 - [x] Lesson 4: Webpack
-- [ ] Lesson 5: Transform Objects
+- [x] Lesson 5: Transform Objects
+- Today I learned how to rotae a group.
+- A mesh/group has `rotation`, `scale`, `position`, and etc.
+<img width="804" alt="image" src="https://user-images.githubusercontent.com/75382121/156961436-7f5cc79a-6d4f-4823-8577-8206f0d3c2cd.png">
+
 - [ ] Lesson 6: Animation
 - [ ] Lesson 7: Cameras
 - [ ] Lesson 8: Fullscreen and resizing
