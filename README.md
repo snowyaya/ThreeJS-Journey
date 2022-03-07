@@ -29,6 +29,7 @@ Date Ended: TBD
 <img width="804" alt="image" src="https://user-images.githubusercontent.com/75382121/156961436-7f5cc79a-6d4f-4823-8577-8206f0d3c2cd.png">
 
 - [x] Lesson 6: Animation
+- [ ] 
 ![06-animation](https://user-images.githubusercontent.com/75382121/156968617-d041f2ea-a5dd-47c4-b420-954db018888b.gif)
 
 - [ ] Lesson 7: Cameras
