@@ -59,8 +59,12 @@ Date Ended: TBD
 
 ![11-textures](https://user-images.githubusercontent.com/75382121/157156799-4f1d548d-b0e1-4fe8-a160-b3b6a4334215.gif)
 
+- [x] Lesson 12: Materals
 
-- [ ] Lesson 12: Materals
+- Explored different types of materials, and added customized material to the objects. 🎉
+- 
+![12-materials](https://user-images.githubusercontent.com/75382121/157168810-a64d94d6-123f-47b5-aa45-e4b5765c5f9b.gif)
+
 - [ ] Lesson 13: 3D Text
 - [ ] Lesson 14: Go live
 
