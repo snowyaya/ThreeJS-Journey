@@ -62,7 +62,7 @@ Date Ended: TBD
 - [x] Lesson 12: Materals
 
 - Explored different types of materials, and added customized material to the objects. 🎉
-- 
+
 ![12-materials](https://user-images.githubusercontent.com/75382121/157168810-a64d94d6-123f-47b5-aa45-e4b5765c5f9b.gif)
 
 - [ ] Lesson 13: 3D Text
