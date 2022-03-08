@@ -72,7 +72,7 @@ Date Ended: TBD
 
 - [x] Lesson 14: Go live
 
-- Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`.
+- Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`. 🎉
 
 #### Chapter 2 - Classic techniques
 - [ ] Lesson 15: Lights
