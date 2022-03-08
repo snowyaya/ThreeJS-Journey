@@ -56,6 +56,7 @@ Date Ended: TBD
 
 - [x] Lesson 11: Textures
 - I learned how to add textures to an object! 🎉
+
 ![11-textures](https://user-images.githubusercontent.com/75382121/157156799-4f1d548d-b0e1-4fe8-a160-b3b6a4334215.gif)
 
 
