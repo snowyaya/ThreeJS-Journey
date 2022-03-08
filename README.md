@@ -65,8 +65,14 @@ Date Ended: TBD
 
 ![12-materials](https://user-images.githubusercontent.com/75382121/157168810-a64d94d6-123f-47b5-aa45-e4b5765c5f9b.gif)
 
-- [ ] Lesson 13: 3D Text
-- [ ] Lesson 14: Go live
+- [x] Lesson 13: 3D Text
+
+![13-3D-text](https://user-images.githubusercontent.com/75382121/157307771-c262a88a-ce1b-4e03-b377-d203d30aef0a.gif)
+
+
+- [x] Lesson 14: Go live
+
+- Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`.
 
 #### Chapter 2 - Classic techniques
 - [ ] Lesson 15: Lights
