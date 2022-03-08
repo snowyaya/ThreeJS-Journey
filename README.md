@@ -50,11 +50,15 @@ Date Ended: TBD
 ![09-geometries](https://user-images.githubusercontent.com/75382121/157090052-13e4a53c-fd75-4803-9cd5-8e41acc5bdea.gif)
 
 - [x] Lesson 10: Debug UI
-- use `lil-gui` to debug UI
+- use `lil-gui` to debug UI 🎉
 
 ![10-debug-ui](https://user-images.githubusercontent.com/75382121/157096697-dadaf547-eb13-49d0-936e-8adf0d7f16b4.gif)
 
-- [ ] Lesson 11: Textures
+- [x] Lesson 11: Textures
+- I learned how to add textures to an object! 🎉
+![11-textures](https://user-images.githubusercontent.com/75382121/157156799-4f1d548d-b0e1-4fe8-a160-b3b6a4334215.gif)
+
+
 - [ ] Lesson 12: Materals
 - [ ] Lesson 13: 3D Text
 - [ ] Lesson 14: Go live
