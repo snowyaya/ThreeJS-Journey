@@ -12,6 +12,7 @@ Date Ended: TBD
 
 ## Progress
 #### My day by day progress 👇
+
 <Details>
 #### Chapte 1 - Basics
 - [x] Lesson 1: Introduction
@@ -76,7 +77,8 @@ Date Ended: TBD
 - Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`. 🎉
 
 </details>
-<br/>
+
+---
 
 #### Where I am now 👇
 
@@ -87,7 +89,8 @@ Date Ended: TBD
 
 ![15-lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
 
-<br/>
+---
+
 #### More To GO 👇
 <details> 
   
@@ -123,4 +126,4 @@ Date Ended: TBD
 - [ ] Lesson 39: Adding details to the scene
 - [ ] Lesson 40: The end
 
-  </details>
+</details>
