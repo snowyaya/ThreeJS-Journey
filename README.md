@@ -76,6 +76,7 @@ Date Ended: TBD
 - Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`. 🎉
 
 </details>
+<br/>
 
 #### Where I am now 👇
 
@@ -86,6 +87,7 @@ Date Ended: TBD
 
 ![15-lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
 
+<br/>
 #### More To GO 👇
 <details> 
   
