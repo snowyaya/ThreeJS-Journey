@@ -11,7 +11,7 @@ Date Started: Feb 13, 2022
 Date Ended: TBD
 
 ## Progress
-#### My day by day progress 👇
+### My day by day progress 👇
 
 <Details>
 #### Chapte 1 - Basics
@@ -80,7 +80,7 @@ Date Ended: TBD
 
 ---
 
-#### Where I am now 👇
+### Where I am now 👇
 
 #### Chapter 2 - Classic techniques
 - [x] Lesson 15: Lights
@@ -91,7 +91,7 @@ Date Ended: TBD
 
 ---
 
-#### More To GO 👇
+### More To GO 👇
 <details> 
   
 - [ ] Lesson 16: Shadows
