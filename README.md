@@ -11,7 +11,8 @@ Date Started: Feb 13, 2022
 Date Ended: TBD
 
 ## Progress
-
+#### My day by day progress 👇
+<Details>
 #### Chapte 1 - Basics
 - [x] Lesson 1: Introduction
 - [x] Lesson 2: What is WebGL and Why use Three.js?
@@ -74,8 +75,20 @@ Date Ended: TBD
 
 - Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`. 🎉
 
+</details>
+
+#### Where I am now 👇
+
 #### Chapter 2 - Classic techniques
-- [ ] Lesson 15: Lights
+- [x] Lesson 15: Lights
+
+- `AmbientLight`, `DirectionalLight` `HemisphereLight`, `PointLight`, `RecAreaLight`, and `SpotLight` were explored and some of them were applied in the gif below. Hope you like it! 🎉
+
+![15-lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
+
+#### More To GO 👇
+<details> 
+  
 - [ ] Lesson 16: Shadows
 - [ ] Lesson 17: Haunted House
 - [ ] Lesson 18: Particles
@@ -107,3 +120,5 @@ Date Ended: TBD
 - [ ] Lesson 38: Importing and optimizing the scene
 - [ ] Lesson 39: Adding details to the scene
 - [ ] Lesson 40: The end
+
+  </details>
