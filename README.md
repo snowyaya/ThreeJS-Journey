@@ -61,7 +61,7 @@ Date Ended: TBD
 
 ![11-textures](https://user-images.githubusercontent.com/75382121/157156799-4f1d548d-b0e1-4fe8-a160-b3b6a4334215.gif)
 
-- [x] Lesson 12: Materals
+- [x] Lesson 12: Materials
 
 - Explored different types of materials, and added customized material to the objects. 🎉
 
@@ -93,6 +93,8 @@ Date Ended: TBD
 ---
 
 ### Impressive Projects ⭐
+
+![Dodge material](https://user-images.githubusercontent.com/75382121/157168810-a64d94d6-123f-47b5-aa45-e4b5765c5f9b.gif)
 
 ![Lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
 
