@@ -11,7 +11,7 @@ Date Started: Feb 13, 2022
 Date Ended: TBD
 
 ## Progress
-### My day by day progress 👇
+### My day by day progress 🎉
 
 <Details>
 #### Chapte 1 - Basics
@@ -75,14 +75,7 @@ Date Ended: TBD
 - [x] Lesson 14: Go live
 
 - Th3 [3D text](https://13-3d-text-silk.vercel.app/) was deployed through `Vercel`. 🎉
-
-</details>
-
----
-
-### Where I am now 👇
-
-#### Chapter 2 - Classic techniques
+  
 - [x] Lesson 15: Lights
 
 - `AmbientLight`, `DirectionalLight` `HemisphereLight`, `PointLight`, `RecAreaLight`, and `SpotLight` were explored and some of them were applied in the gif below. Hope you like it! 🎉
@@ -91,12 +84,22 @@ Date Ended: TBD
 
 - [x] Lesson 16: Shadows
 
-  - Add shadows to the object and let the object bounce on the plane following the `cosine` cycle.
+  - Add shadows to the object and let the object bounce on the plane following the `cosine` cycle. 🎉
  
   ![16-shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
 
+</details>
+
 ---
-### More To GO 👇
+
+### Impressive Projects ⭐
+
+![Lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
+
+![Shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
+
+---
+### More To GO 🚀
 <details> 
   
 - [ ] Lesson 17: Haunted House
