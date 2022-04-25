@@ -89,12 +89,16 @@ Date Ended: TBD
 
 ![15-lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
 
----
+- [x] Lesson 16: Shadows
 
+  - Add shadows to the object and let the object bounce on the plane following the `cosine` cycle.
+ 
+  ![16-shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
+
+---
 ### More To GO 👇
 <details> 
   
-- [ ] Lesson 16: Shadows
 - [ ] Lesson 17: Haunted House
 - [ ] Lesson 18: Particles
 - [ ] Lesson 19: Galaxy Generator
