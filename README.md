@@ -94,19 +94,23 @@ Date Ended: TBD
   
 - [x] Lesson 18: Particles
 
+![18-particles](https://user-images.githubusercontent.com/75382121/165385954-60589395-ca14-411f-a8e0-76c89d8b9ad6.gif)
+
 </details>
 
 ---
 
 ### Impressive Projects ⭐
 
-![Dodge material](https://user-images.githubusercontent.com/75382121/157168810-a64d94d6-123f-47b5-aa45-e4b5765c5f9b.gif)
+![particles](https://user-images.githubusercontent.com/75382121/165385954-60589395-ca14-411f-a8e0-76c89d8b9ad6.gif)
 
-![Lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
+![haunted-house](https://user-images.githubusercontent.com/75382121/165381442-edf906f1-e9e8-4fd5-a8a3-6f7e5a4b514d.gif)
 
 ![Shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
 
-![haunted-house](https://user-images.githubusercontent.com/75382121/165381442-edf906f1-e9e8-4fd5-a8a3-6f7e5a4b514d.gif)
+![Lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
+
+![Dodge material](https://user-images.githubusercontent.com/75382121/157168810-a64d94d6-123f-47b5-aa45-e4b5765c5f9b.gif)
 
 ---
 ### More To GO 🚀
