@@ -86,7 +86,7 @@ Date Ended: TBD
 
   - Add shadows to the object and let the object bounce on the plane following the `cosine` cycle. 🎉
  
-  ![16-shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
+![16-shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
   
 - [x] Lesson 17: Haunted House
   
@@ -105,6 +105,8 @@ Date Ended: TBD
 ![Lights](https://user-images.githubusercontent.com/75382121/158028822-0dc5a5c2-7d78-47d9-9bb9-20303f782c43.gif)
 
 ![Shadows](https://user-images.githubusercontent.com/75382121/165152306-5af3717a-1db0-4d03-b1d9-0f366088c56a.gif)
+
+![haunted-house](https://user-images.githubusercontent.com/75382121/165381442-edf906f1-e9e8-4fd5-a8a3-6f7e5a4b514d.gif)
 
 ---
 ### More To GO 🚀
