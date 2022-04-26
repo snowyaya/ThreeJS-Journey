@@ -277,9 +277,9 @@ controls.enableDamping = true
 const renderer = new THREE.WebGLRenderer({
     canvas: canvas
 })
-renderer.shadowMap.enabled = true
+renderer.shadowMap.enabled = true // !!!
 renderer.shadowMap.type = THREE.PCFSoftShadowMap
-renderer.setClearColor('#262837') // set fog
+renderer.setClearColor('#262837') // set moonlight
 renderer.setSize(sizes.width, sizes.height)
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
 
