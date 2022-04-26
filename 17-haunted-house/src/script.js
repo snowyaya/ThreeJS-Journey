@@ -137,8 +137,7 @@ scene.add(graves)
 const graveGeometry = new THREE.BoxGeometry(0.6, 0.8, 0.1)
 const graveMaterial = new THREE.MeshStandardMaterial({ color: '#727272' })
 
-for(let i = 0; i < 50; i++)
-{
+for (let i = 0; i < 50; i++) {
     const angle = Math.random() * Math.PI * 2 // Random angle
     const radius = 3 + Math.random() * 6      // Random radius
     const x = Math.cos(angle) * radius        // Get the x position using cosinus
@@ -149,7 +148,7 @@ for(let i = 0; i < 50; i++)
     grave.castShadow = true
 
     // Position
-    grave.position.set(x, 0.3, z)                              
+    grave.position.set(x, 0.3, z)
 
     // Rotation
     grave.rotation.z = (Math.random() - 0.5) * 0.4
@@ -159,7 +158,7 @@ for(let i = 0; i < 50; i++)
     graves.add(grave)
 }
 
-// Floor
+// Floor -- grass
 const floor = new THREE.Mesh(
     new THREE.PlaneGeometry(20, 20),
     new THREE.MeshStandardMaterial({
@@ -244,8 +243,7 @@ const sizes = {
     height: window.innerHeight
 }
 
-window.addEventListener('resize', () =>
-{
+window.addEventListener('resize', () => {
     // Update sizes
     sizes.width = window.innerWidth
     sizes.height = window.innerHeight
@@ -281,7 +279,7 @@ const renderer = new THREE.WebGLRenderer({
 })
 renderer.shadowMap.enabled = true
 renderer.shadowMap.type = THREE.PCFSoftShadowMap
-renderer.setClearColor('#262837')
+renderer.setClearColor('#262837') // set fog
 renderer.setSize(sizes.width, sizes.height)
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
 
@@ -290,8 +288,7 @@ renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
  */
 const clock = new THREE.Clock()
 
-const tick = () =>
-{
+const tick = () => {
     const elapsedTime = clock.getElapsedTime()
 
     // Ghosts
