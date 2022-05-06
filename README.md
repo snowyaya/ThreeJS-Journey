@@ -14,7 +14,9 @@ Date Ended: TBD
 ### My day by day progress 🎉
 
 <Details>
-#### Chapte 1 - Basics
+  
+#### Chapte 1-Basics
+  
 - [x] Lesson 1: Introduction
 - [x] Lesson 2: What is WebGL and Why use Three.js?
 - [x] Lesson 3: Basics Scene
