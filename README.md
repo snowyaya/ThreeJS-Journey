@@ -95,12 +95,19 @@ Date Ended: TBD
 - [x] Lesson 18: Particles
 
 ![18-particles](https://user-images.githubusercontent.com/75382121/165385954-60589395-ca14-411f-a8e0-76c89d8b9ad6.gif)
+  
+- [x] Lesson 19: Galaxy Generator
+
+![19-galaxy-generator](https://user-images.githubusercontent.com/75382121/167174122-4653eb00-acd7-4b22-a40a-84b4f7539ac7.gif)
+
 
 </details>
 
 ---
 
 ### Impressive Projects ⭐
+
+![galaxy-generator](https://user-images.githubusercontent.com/75382121/167174122-4653eb00-acd7-4b22-a40a-84b4f7539ac7.gif)
 
 ![particles](https://user-images.githubusercontent.com/75382121/165385954-60589395-ca14-411f-a8e0-76c89d8b9ad6.gif)
 
@@ -116,7 +123,6 @@ Date Ended: TBD
 ### More To GO 🚀
 <details> 
   
-- [ ] Lesson 19: Galaxy Generator
 - [ ] Lesson 20: Raycaster
 - [ ] Lesson 21: Scroll based animation
 
